@@ -1,3 +1,5 @@
-# circle-images
+# Circle images
 
-See https://team.trustroots.org/Circles.html
+See instructions: https://team.trustroots.org/Circles.html
+
+See circles: https://www.trustroots.org/circles
